@@ -1,2 +1,2 @@
 # cpplj
-A Clojure-like C++ Functional Programming Header Only Library
+A Clojure-like Embedded C++ Functional Programming Header Only Library
